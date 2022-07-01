@@ -13,3 +13,7 @@ Just make a pr and follow a similar md structure.
 ## CPU Related
 
 - [DavePoo](https://www.youtube.com/c/DavePoo)
+
+## Asm
+
+- [cheatsheet](https://www.bencode.net/blob/nasmcheatsheet.pdf)
